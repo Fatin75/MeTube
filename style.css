@@ -414,7 +414,7 @@ nav{
 }
 
 /*---------- Alert ----------*/
-.swal-modal {
+/*.swal-modal {
   background-color: rgba(0,0,0,0.8);
   border: 1px solid white;
 }
@@ -433,4 +433,4 @@ nav{
   font-size: 12px;
   border: 1px solid #3e549a;
   color: #fff;
-}
+}*/
